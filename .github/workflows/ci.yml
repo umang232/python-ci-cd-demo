@@ -54,4 +54,4 @@ jobs:
     - name: Request manager approval
       uses: "marvinpinto/action-automatic-rebase@v2"
       with:
-        comment: "This pull request is awaiting manager approval for merge."
+        comment: "This pull request is awaiting manager approval for merging."
